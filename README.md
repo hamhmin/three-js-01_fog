@@ -1,6 +1,6 @@
-﻿# three-js-01_fog
+### three-js-01_fog
  
- ##배운 내용
+ ## 배운 내용
  - fog
  - rotation
  - position 
