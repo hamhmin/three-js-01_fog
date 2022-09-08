@@ -1,6 +1,6 @@
 ### three-js-01_fog
  
- https://hamhmin.github.io/three-js-01_fog/
+ https://hamhmin.github.io/threejs-01_fog/
  
  ## 배운 내용
  - fog
